@@ -3,8 +3,8 @@ class Atm:
 
     def __init__(self):
 
-        self.pin = ""
-        self.balance = 0
+        self__pin = ""
+        self__balance = 0
 
 
         self.menu()
@@ -33,7 +33,6 @@ class Atm:
         self.pin = input("enter your pin")
         print("pin set successfully")
         self.menu()
-
     def deposit(self):
         temp = input("enter yopur pin")
         if temp == self.pin:
@@ -70,3 +69,5 @@ atm = Atm()
 #kyu python me har methods ko self ki jarurat hai
 #since ek hi class k edo methods ek dusre ko access nhi kr skte
 #access krne ka ek hi tareeka hai>>>objects ke through
+#what is an instance variable>>>class ke andar ka wo variable jiska value har object ke liye alag hota hai
+#double underscor elaga ke values ko hide kr skte ho aur koi methods ko bhi
