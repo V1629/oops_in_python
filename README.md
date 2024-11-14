@@ -9,4 +9,10 @@ In this repositroy i have given code of  the following topics:
  
 also i have made some small projects:
 1. a simple calculator program using python. 
-2.a data type which can handle fraction operations
+2. a data type which can handle fraction operations
+3. encapsulation
+4. reference variable
+5. Pass by reference
+6. collection of objects
+2:16:41
+
