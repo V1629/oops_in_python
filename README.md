@@ -7,12 +7,15 @@ In this repositroy i have given code of  the following topics:
 6.file handling in python
 7.exception handling in python
  
-also i have made some small projects:
+what i have learned throughout the video ?
 1. a simple calculator program using python. 
 2. a data type which can handle fraction operations
 3. encapsulation
 4. reference variable
 5. Pass by reference
 6. collection of objects
-2:16:41
+7. static variable
+8. class variable
+9. aggregation
+10. inheritance
 
