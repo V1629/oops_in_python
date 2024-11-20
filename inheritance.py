@@ -16,3 +16,6 @@ student.login()
 student.register()
 student.enroll()
 student.review()
+#even aap inheritance ka use krke parent class ka constructor bhi call kr skte ho
+#child class ,parents class ke private members ko access nhi kr skta
+ 
