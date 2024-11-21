@@ -18,4 +18,9 @@ what i have learned throughout the video ?
 8. class variable
 9. aggregation
 10. inheritance
+11. types of inheritance
+     .single level inheritance
+     .multi level inheritance
+     .hierarchial inheritance
+     .multiple inhertance>>>>do not happen in JAVA but in python it is possible
 
