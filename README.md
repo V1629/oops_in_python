@@ -23,4 +23,8 @@ what i have learned throughout the video ?
      .multi level inheritance
      .hierarchial inheritance
      .multiple inhertance>>>>do not happen in JAVA but in python it is possible
+12. polymorphism
+     .method overriding
+     .method overloading
+     .operator overloading
 
